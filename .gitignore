@@ -1,0 +1,6 @@
+.vs/
+*.ipch
+*.db
+Debug/
+Release/
+x64/
