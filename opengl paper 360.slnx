@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="opengl paper 360.vcxproj" Id="420607d9-4b8c-40bd-a92d-0b62964104a8" />
+</Solution>
