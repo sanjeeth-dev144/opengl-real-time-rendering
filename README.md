@@ -1,2 +1,1 @@
-OpenGL is an graphic rendering API.It is an cross-platform API used to render the image in 2D and 3D using the GPU.It provides the low-level access to graphics hardware the GPU enabling the high performance rendering through shaders, vertex and index buffers, vertex array, textures.
-This is a simple project that renders the 2D image with real time rendering in 360 rotation.
+OpenGL is an graphics rendering API. It is an cross-platform API used to render the image in 2D and 3D using the GPU. It provides the low-level access to graphics hardware the GPU enabling the high performance rendering through shaders, vertex and index buffers, vertex array, textures. This is a simple project that renders the 2D image with real time rendering in 360 rotation.
